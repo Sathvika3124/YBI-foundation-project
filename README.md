@@ -1,2 +1,2 @@
-# YBI-foundation-project
-Hand wrinting Digital
+# HandWritingDigitClassification
+Hand Writing Digit Classification code contains
